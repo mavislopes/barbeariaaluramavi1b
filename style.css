@@ -1,7 +1,14 @@
-body{}
+body{
+
+}
+.titulo{padding: 16px;}
 
 .imagem{width: 100%;}
 
 .principal{background-color: gray;
     text-align: center;} 
 
+
+    .destaque{color: red;}
+
+    .Beneficios{text-align: center;}
