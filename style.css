@@ -12,3 +12,8 @@ body{
     .destaque{color: red;}
 
     .Beneficios{text-align: center;}
+
+    .imagem{width: 50%;}
+
+     .lista{display: inline-block;
+        vertical-align: top;}
